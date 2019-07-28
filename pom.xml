@@ -9,6 +9,7 @@
 
     <modules>
         <module>java7-concurrency-cookbook</module>
+        <module>utils-study</module>
     </modules>
 
     <!--常用基本依赖-->
@@ -32,6 +33,12 @@
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>20.0</version>
+        </dependency>
+        <!-- mysql驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.38</version>
         </dependency>
     </dependencies>
 
