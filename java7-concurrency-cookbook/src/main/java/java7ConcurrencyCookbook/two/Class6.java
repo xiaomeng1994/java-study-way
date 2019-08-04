@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 /**
  * 课程：java并发编程7学习笔记(http://ifeve.com/java-7-concurrency-cookbook/)
  * 章节：2.6使用读/写锁同步数据访问
- * 替换：
+ * 替换：[0-9]{1,2}\n
  */
 public class Class6 {
 
